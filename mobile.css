@@ -1,0 +1,80 @@
+body{
+	background-image:url(mobile.jpeg);
+	background-size:cover;
+}
+nav{
+
+	height:47px;
+	width:1500px;
+	display:inline-block;
+	background:linear-gradient(to right, #14187A, #1F25C4);
+}
+li{
+	color:white;
+	list-style: none;
+	display:inline-block;
+	font-size:20px;
+	font-family:"Berlin Sans MS";
+	padding:8px;
+	padding-left: 0px;
+	padding-top:7px;
+}
+.home{
+	padding-left:10px;
+}
+.sub{
+	padding-left:10px;
+}
+.abt{
+	padding-left:10px;
+}
+.sea{
+	padding-top:0px;
+	padding-left:500px;
+}
+.sea1{
+	padding-left:10px;
+	padding-right:0px;
+}
+.sub{
+	padding-left:0px;
+}
+.p{
+	font-family:"times new roman";
+	color:white;
+ 	font-size:40px;
+ 	text-align: center;
+}
+.oppo{
+	height:150px;
+	width:200px;
+	padding-right:10px;
+}
+.vivo{
+	height:150px;
+	width:200px;
+}
+.apple{
+	height:150px;
+	width:220px;
+	padding-left:10px;
+}
+.img1{
+	height:220px;
+	padding:100px;
+	padding-left:320px;
+	padding-top:45px;
+}
+.img2{
+	padding-top:0px;
+	padding-left:410px;
+}
+.sam{
+	height:150px;
+	width:200px;
+}
+.oneplus{
+	height:150px;
+	width:200px;
+	padding-left:10px;
+}
